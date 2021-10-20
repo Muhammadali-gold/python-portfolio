@@ -1,0 +1,8 @@
+Title:Graph!!!
+x:x label
+y:y label
+0 1
+8 7
+3 5
+12 17
+5 11
